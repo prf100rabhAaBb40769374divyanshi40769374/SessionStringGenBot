@@ -13,12 +13,12 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("✨ Updates Channel ✨", url="https://t.me/OriginalSrijan")],
+        [InlineKeyboardButton("✨ Updates Channel ✨", url="https://t.me/StoreiNet47")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StoreiNet47")],
     ]
 
     START = """
@@ -47,5 +47,5 @@ You can use me to generate Pyrogram & Telethon session string.
 
     ABOUT = """
 **About This Bot** 
-POWERED BY @SrijanMajumdar
+Truste bot to generate session
     """
