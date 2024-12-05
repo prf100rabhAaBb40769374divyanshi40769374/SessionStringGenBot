@@ -31,9 +31,7 @@ If you don't trust this bot,
 2) delete this chat
 
 Still reading?
-You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
-
-By @StarkBots
+You can use me to generate Pyrogram & Telethon session string.
     """
 
     HELP = """
@@ -49,14 +47,5 @@ By @StarkBots
 
     ABOUT = """
 **About This Bot** 
-
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
-
-Framework : [Pyrogram](https://docs.pyrogram.org)
-
-Language : [Python](https://www.python.org)
-
-Developer : @StarkAgent
+POWERED BY @SrijanMajumdar
     """
