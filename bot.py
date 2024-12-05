@@ -11,6 +11,7 @@ app = Client(
     "Session_bot",
     api_id=env.API_ID,
     api_hash=env.API_HASH,
+    workers=50,
     bot_token=env.BOT_TOKEN,
     in_memory=True,
     plugins={'root':'StringSessionBot'},
