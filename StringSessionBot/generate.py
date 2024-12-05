@@ -30,7 +30,7 @@ from data import Data
 ask_ques = "Please choose the python library you want to generate string session for"
 buttons_ques = [
     [
-        InlineKeyboardButton("Pyrogram", callback_data="pyrogram"),
+        InlineKeyboardButton("Pyrogram V2", callback_data="pyrogram"),
         InlineKeyboardButton("Telethon", callback_data="telethon"),
     ],
     [
