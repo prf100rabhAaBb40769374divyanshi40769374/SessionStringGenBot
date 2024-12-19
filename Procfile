@@ -1,1 +1,1 @@
-worker: python3 -m SessionStringGenBot
+worker: python3 -m StringSessionBot
